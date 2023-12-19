@@ -4,6 +4,8 @@
 
 The game I developed is called Connect4, drawing inspiration from the original Connect4 game. It's designed for 2 players who take turns inserting their discs into a board where each disc is held individually. The board has a total of 42 spaces for the discs. The objective of the game is to strategically place 4 same-coloured discs in either a row or column, with sideways plays also counting towards this goal.
 
+![giphy](https://github.com/Jobanpreet0/Connect4/assets/66274737/38ddd15b-e8ca-40c9-a761-6cbe7ced42a1)
+
 ## **To Play:**
 
 1. Download the folder from GitHub.
