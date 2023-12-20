@@ -6,7 +6,7 @@ The game I developed is called Connect4, drawing inspiration from the original C
 
 
 ## **Demo**
-https://github.com/Jobanpreet0/Connect4/assets/66274737/8951af0c-774a-4927-a850-8ceb127df2e8
+![Connect4](https://github.com/Jobanpreet0/Connect4/assets/66274737/17f90e52-7633-487a-a998-35f037107676)
 
 ## **To Play:**
 
